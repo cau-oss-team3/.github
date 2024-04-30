@@ -1,6 +1,6 @@
 # Welcome to CAU-OSS-Team3's GitHub!
 
-## Narae: Your Personal AI Coaching Companion
+## Narae: Your Personal AI Mentor
 
 ### What is Narae?
 
@@ -40,8 +40,10 @@ Our development focuses on several key areas to create a effective mentoring ser
    - Conversations are transcribed to text for backend processing and responses are returned as voice.
    - It will be implemented if we have some extra time.
 
+### MVP Focus: Streamlined Project Scope
+
+For the initial phase of Narae's development, we have streamlined our project scope by focusing exclusively on the field of development(e.g. backend, frontend) for mentoring. We believe that by narrowing our focus to this area, we can more efficiently implement and optimize our embedding technologies. We want to check if embedding gives more effective and specialized AI coach that can provide tailored guidance and resources to aspiring learners of development.
+
 ### Technologies and Approach
 Our approach avoids costly fine-tuning; instead, we leverage technologies like Retrieval-Augmented Generation (RAG) when necessary to maintain affordability while ensuring high quality and responsiveness.
 
-### Join Us
-We are eager to collaborate with other developers and educators. Feel free to fork our projects, submit issues, and propose pull requests!
